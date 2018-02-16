@@ -10,12 +10,21 @@ To Bruteforce Facebook account......to test password vulnerability
 
 Available in Termux Only!!!
 
-Requirements
+******************
+*   Requirements *
+******************
 
-mechanize
-random
+* mechanize
 
-how to use?
+* random
+
+* python2 req.py
+
+
+
+******************
+*   how to Run?  *
+******************
 
 python2 fb.py
 
